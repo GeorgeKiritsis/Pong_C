@@ -3,7 +3,6 @@
 #include <SDL2/SDL_ttf.h>
 #include <SDL2/SDL.h>
 #include "inc/loading.h"
-#include <stdio.h>
 #include "inc/utils.h"
 #include "inc/player_customization.h"
 #include "inc/state.h"
